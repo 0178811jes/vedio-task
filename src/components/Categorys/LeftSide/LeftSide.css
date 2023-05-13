@@ -1,0 +1,27 @@
+
+.bookmark{
+    background-color: #5a47ef;
+    text-align: right;
+    padding-right: 10px;
+    padding: 5px;
+    margin-top: 0;
+    color: #fff;
+}
+.development{
+   
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    margin-top: 25px;
+    color: #fff;
+}
+.welcome{
+    font-size: 1.3125rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #fff;
+}
+.btn{
+    border: 1px solid #985cf0;
+}
